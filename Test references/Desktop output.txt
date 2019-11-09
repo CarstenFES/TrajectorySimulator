@@ -1,0 +1,102 @@
+uniform 0.688531
+uniform 0.715891
+uniform 0.694503
+uniform 0.247127
+uniform -0.231237
+
+normal 1.45925
+normal 0.543174
+normal -1.59632
+normal 0.225501
+normal -0.639956
+
+exponential 0.934493
+exponential 0.179032
+exponential 1.0865
+exponential 0.433599
+exponential 0.999016
+Pinned trajectory (75 steps)
+
+Harmonic trajectory (75 steps)
+
+Diffusive trajectory (75 steps)
+
+Mixed trajectory (75 steps)
+
+Access first three Elements of mixed trajectory
+0.000384452
+0.554969
+1.49192
+Statistics with 100000 uniformly distributed values
+Avg (0.0): 9.94843e-06 , Stddev (0.5773): 0.577119
+Statistics with 100000 normal distributed values
+Avg (0.0): 0.00270785 , Stddev (1.0): 1.0014
+Statistics with 100000 expoential distributed values
+Avg (2.0): 2.0019 , Stddev (2.0): 1.99389
+Reading Input Parameters
+
+Parameter initialization via list... No name is provided, using 'set'!
+
+I read:
+Name: set
+50 steps
+10 lag time
+25 pinned particles (0.25)
+0 harmonic particles (0)
+75 diffusive particles (0.75)
+
+(50, 10, 25,0, 75)
+Parameter initialization via list... No name is provided, using 'set'!
+
+Run simulations of 5 trajectories for 50 in total.
+-392.525 1.19271e-05
+-317.066 0.000104693
+-241.607 0.000520816
+-166.149 0.00174268
+-90.6903 0.00339922
+-15.2318 0.00383919
+60.2268 0.00247553
+135.685 0.00091706
+211.144 0.000210712
+286.602 2.91551e-05
+
+0.00162437 0.0650617
+9.24362 0.0262065
+18.4856 0.0102251
+27.7276 0.00393854
+36.9696 0.00173123
+46.2116 0.00062757
+55.4536 0.000248864
+64.6956 0.000119022
+73.9376 1.08202e-05
+83.1796 2.16403e-05
+
+0 0.0096
+10 0.00982
+20 0.01051
+30 0.00989
+40 0.00984
+50 0.00961
+60 0.01016
+70 0.00969
+80 0.00998
+90 0.00983
+Analyze 1000 harmonic walkers.
+Parameter initialization via list... No name is provided, using 'set'!
+
+Run simulations of 1000 trajectories for 1000 in total.
+
+Analyze 1000 diffusive walkers.
+Parameter initialization via list... No name is provided, using 'set'!
+
+Run simulations of 1000 trajectories for 1000 in total.
+
+Analyze 1000 mixed walkers.
+Parameter initialization via list... No name is provided, using 'set'!
+
+Run simulations of 1000 trajectories for 1000 in total.
+
+Analyze 1000 shuffled walkers.
+Parameter initialization via list... No name is provided, using 'set'!
+
+Run simulations of 1000 trajectories for 1000 in total.
